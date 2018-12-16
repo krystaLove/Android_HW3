@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string-array name="shapes">
+        <item>Rectangle</item>
+        <item>Circle</item>
+        <item>Triangle</item>
+    </string-array>
+    <string name="calculate">Calculate</string>
+    <string name="x1_hint">x1</string>
+    <string name="x2_hint">x2</string>
+    <string name="y1_hint">y1</string>
+    <string name="y2_hint">y2</string>
+    <string name="a_hint">a</string>
+    <string name="b_hint">b</string>
+    <string name="c_hint">c</string>
+    <string name="choose">Choose</string>
+    <string name="coords">Coords</string>
+    <string name="sides">Sides</string>
+    <string name="circle">Circle</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="triangle">Triangle</string>
+    <string name="width_hint">Width</string>
+    <string name="height_hint">Height</string>
+</resources>
