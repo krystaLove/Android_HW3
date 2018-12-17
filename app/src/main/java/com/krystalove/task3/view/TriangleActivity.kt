@@ -19,7 +19,7 @@ class TriangleActivity : AppCompatActivity() {
                 val c = c_et.text.toString().toInt()
                 Triangle(a,b,c).also {
                     square_text.text = "Square: " + "%.2f".format(it.square())
-                    perimeter_text.text = "Perimeter: "+"%.2f".format(it.perimeter())
+                    perimeter_text.text = "Perimeter: " + it.perimeter().toString()
                 }
             }
         }

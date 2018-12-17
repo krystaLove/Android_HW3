@@ -17,5 +17,5 @@ class Rectangle{
     }
 
     fun square() = width*height
-    fun perimeter() = 2*(width+height)
+    fun perimeter() = if(square()!=0) 2*(width+height) else 0
 }
